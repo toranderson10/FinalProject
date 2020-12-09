@@ -3,7 +3,7 @@ let x = 100;
 let y = 100;
 let button1, button2, button3, button4, button5;
 
-let url = "https://api.nytimes.com/svc/search/v2/articlesearch.json?q=human%20rights%2C%20fashion&api-key=U6lPCvZGERA6EzYGasZWnZu5d65qAoMc"
+let url = "https://api.nytimes.com/svc/search/v2/articlesearch.json?q=human%20rights%2C%20fashion&"
 
 
 function setup() {
